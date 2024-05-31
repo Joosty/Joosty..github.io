@@ -48,7 +48,7 @@ Skills
 
 Projects
 ======
-* Orbital Decay and Rendezvous of an On-orbit Satellite Refuelling System, Queen Mary University of London, Sept 2023 - Current
+* Station Keeping and Rendezvous of an On-orbit Satellite Refuelling System, Queen Mary University of London, Sept 2023 - May 2024
   * Developed an on-orbit refuelling system as part of a third-year project, gaining insight into the complex requirements of space applications
   * Created Python scripts to simulate orbital decay
   * Designed and simulated orbit maintenance and rendezvous manoeuvres to facilitate mission planning and fuel sizing
@@ -65,9 +65,9 @@ Projects
 
 Interests
 ======
-* Cooking: I love cooking. In my spare time, you can often find me in the kitchen cooking any new foods that have sparked my interest.
-* Video Games: I have always had the gaming gene. I mostly play on my desktop which I also enjoy maintaining and upgrading.
-* Motor sports: I am an avid follower of Formula One, making sure to get together with friends to watch the Grand Prix or discuss technical details.
+* Cooking: I love cooking. In my spare time, you can often find me in the kitchen cooking any new foods that have sparked my interest
+* Video Games: I have always had the gaming gene. I mostly play on my desktop which I also enjoy maintaining and upgrading
+* Motor sports: I am an avid follower of Formula One, making sure to get together with friends to watch the Grand Prix or discuss technical details
 
 References
 ======
