@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Joost Hubbard"
   pronouns         : # example: "she/her"  
-  bio              : "I'm Joost Hubbard, a current MEng Aerospace Engineering student at Queen Mary University of London. I have a strong passion for aerospace engineering, specializing in aerodynamics, propulsion systems, and spacecraft design."
+  bio              : "Current MEng Aerospace Engineering student at Queen Mary University of London. I have a strong passion for aerospace engineering, specializing in aerodynamics, propulsion systems, and spacecraft design."
   location         : "Earth"
   employer         : "QMUL"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Joost Hubbard
+  linkedin         : JoostHubbard
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
