@@ -13,3 +13,5 @@ Key findings include:
 The depot satellite operates at a 550km altitude, inclined at 53 degrees, requiring 104.2382 kg of fuel for 20-year orbit maintenance.
 The service vehicle needs 182.2057 kg of fuel for an exemplary rendezvous mission.
 This project aims to reduce the costs and frequency of satellite replacements by providing a sustainable refuelling solution in space.
+
+The full dissertation can be found here Joost_Hubbard_Individual_Detailed_Design_Report.pdf
