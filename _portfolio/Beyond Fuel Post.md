@@ -3,7 +3,7 @@ title: "Dissertation Project: On-orbit Satellite Refuelling System"
 excerpt: "Exploring the design and simulation of an on-orbit refuelling system to extend satellite lifetimes in Low Earth Orbit (LEO).<br/><img src='/images/500x300.png'>"
 collection: portfolio
 slidesurl: 
-paperurl: [files/Joost_Hubbard_Individual_Detailed_Design_Report.pdf](https://github.com/Joosty/Joosty.github.io/blob/96cc9baaf4371fb06f853e59dff032edef1cb4b9/files/Joost_Hubbard_Individual_Detailed_Design_Report.pdf)
+paperurl: https://github.com/Joosty/Joosty.github.io/blob/master/files/Joost_Hubbard_Individual_Detailed_Design_Report.pdf
 ---
 
 This project focuses on addressing the limited lifetimes of satellites in Low Earth Orbit (LEO) due to fuel depletion. My dissertation, supervised by Dr. Angadh Nanjangud, proposes the 'Beyond Fuel' system, which offers on-orbit refuelling services to extend the operational life of satellites.
