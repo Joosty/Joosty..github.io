@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-* Trainee Civil Engineer, BAMUK and Ireland, AWE Burghfield, UK, May 2023 - July 2023
+* Trainee Civil Engineer, BAM UK and Ireland, AWE Burghfield, UK, May 2023 - July 2023
   * Conducted surveys, completed setting out, and ensured quality standards across project areas
   * Developed a detailed action plan, programme, and risk assessment for a project component
   * Introduced to CAD packages like Autodesk Civil 3D and maintained concrete test records
