@@ -1,6 +1,6 @@
 ---
 title: "Dissertation Project: On-orbit Satellite Refuelling System"
-excerpt: "Exploring the design and simulation of an on-orbit refuelling system to extend satellite lifetimes in Low Earth Orbit (LEO).<br/><img src='/images/depot_decay.PNG'>"
+excerpt: "Exploring the design and simulation of an on-orbit refuelling system to extend satellite lifetimes in Low Earth Orbit (LEO).<br/><img src='/images/Satellite.png'>"
 collection: portfolio
 ---
 
