@@ -1,6 +1,6 @@
 ---
 title: "Dissertation Project: On-orbit Satellite Refuelling System"
-excerpt: "Exploring the design and simulation of an on-orbit refuelling system to extend satellite lifetimes in Low Earth Orbit (LEO).<br/><img src='/images/500x300.png'>"
+excerpt: "Exploring the design and simulation of an on-orbit refuelling system to extend satellite lifetimes in Low Earth Orbit (LEO).<br/><img src='/images/depot decay.PNG'>"
 collection: portfolio
 slidesurl: https://Joosty.github.io/files/Beyond Fuel Presentation.pdf
 paperurl: https://Joosty.github.io/files/Joost_Hubbard_Individual_Detailed_Design_Report.pdf
