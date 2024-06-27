@@ -12,3 +12,6 @@ Initially I created a 3D momentum exchange python script for the motion of two s
 The next step was to implement this into a relative motion simulation. The aim of this script is to simulate the motion a chaser satellite in close proximity to a target satellite. This uses the Clohessy Wiltshire equations to draw the chaser satellite in the reference frame of the target satellite. This particular simulation attempts to simulate the motion of the satellite given initial conditions and then provides the means to apply an extended burn across a chosen time period and fuel capacity. 
 
 The next step could be to combine the two simulations to simulate relative motion after collision. 
+
+Code:
+https://github.com/Joosty/Debris-Mitigation-Summer/blob/110d05b89858ef48194743aecc541d1bdabceda6/Relative%20motion/Extended%20thrust.ipynb
