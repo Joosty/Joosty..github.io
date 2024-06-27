@@ -1,13 +1,14 @@
-The initial goal was to create a code snippet that to simulate the collisions between two objects in LEO, making use of the hill clohessy equations for relative motion. This is to be used to simulate the collision between the robotic arms and any debris it may want to capture. In addition, it could be used to estimate the required force needed to push the debris out of orbit. A final use could be to simulate rendezvous with the target. 
+---
+title: 'Clohessy–Wiltshire Simulation'
+date: 27/06/2024
+permalink: /posts/2024/07/blog-post-2/
+tags: General, Summer Work
+---
 
- 
+The initial goal was to create a code snippet that to simulate the collisions between two objects in LEO, making use of the hill clohessy equations for relative motion. This is to be used to simulate the collision between the robotic arms and any debris it may want to capture. In addition, it could be used to estimate the required force needed to push the debris out of orbit. A final use could be to simulate rendezvous with the target. 
 
 Initially I created a 3D momentum exchange python script for the motion of two single bodies in microgravity. This simulation ignored the influence of gravity. This is because "Repeated Impact-Based Capture of a Spinning Object by a Dual-Arm Space Robot" by Nagaoka et al. (2018) suggests that in close proximity manoeuvres, gravity can be ignored.  
 
- 
-
 The next step was to implement this into a relative motion simulation. The aim of this script is to simulate the motion a chaser satellite in close proximity to a target satellite. This uses the Clohessy Wiltshire equations to draw the chaser satellite in the reference frame of the target satellite. This particular simulation attempts to simulate the motion of the satellite given initial conditions and then provides the means to apply an extended burn across a chosen time period and fuel capacity. 
-
- 
 
 The next step could be to combine the two simulations to simulate relative motion after collision. 
