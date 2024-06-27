@@ -1,6 +1,6 @@
 ---
 title: 'Clohessy–Wiltshire Simulation'
-date: 27/06/2024
+date: 26/06/2024
 permalink: /posts/2024/07/blog-post-2/
 tags: General, Summer Work
 ---
