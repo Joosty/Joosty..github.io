@@ -11,6 +11,6 @@ I am Joost Hubbard, an MEng Aerospace Engineering student at Queen Mary Universi
 
 
 **I am currently:**
-- Working on two online textbooks for use in QMUL's teaching, [ComputationalDynamics](https://github.com/angadhn/ComputationalDynamics) and [SpacecraftDynamics](https://github.com/angadhn/SpacecraftDynamics), as an active contributor and moderator.
+- Working on two online textbooks for use in QMUL's teaching, [Symbolic Computational Dynamics](https://github.com/angadhn/ComputationalDynamics) and [Computational Spacecraft Dynamics](https://github.com/angadhn/SpacecraftDynamics), as an active contributor and reviewer.
 - Developing background knowledge required for variable mass systems simulation and research.
-- Preparing for my visit to ESA Galaxia as part of [ESA Academies Space Debris Training Course 2024](https://www.esa.int/Education/ESA_Academy/Space_Debris_Training_Course_2024_open_for_applications).
+- Preparing for my visit to ESA Galaxia as part of [ESA Academy's Space Debris Training Course 2024](https://www.esa.int/Education/ESA_Academy/Space_Debris_Training_Course_2024_open_for_applications).
