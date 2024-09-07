@@ -18,7 +18,8 @@ redirect_from:
 
 ### Soft Skills
 - Leadership, Time Management, Teamwork, Problem-solving, Engaging Presentation.
-===
+
+---
 
 ## Education
 ### European Space Agency Academy ESEC Galaxia, Belgium
@@ -36,7 +37,8 @@ redirect_from:
 - Graduated with B, B, A*.
 - Completed TU Delft 'Introduction to Aerospace Structures and Materials' online course.
 - Volunteered for the 'superWASP variable stars project'.
-===
+
+---
 
 ## Work Experience
 ### BAM UK and Ireland, AWE Burghfield, UK
@@ -64,7 +66,8 @@ redirect_from:
 - Engaged in creative thinking to fulfil design briefs, showcasing innovation and problem-solving abilities.
 - Technical Skills: CAD (SketchUp).
 - Soft Skills: Project Management, Creative Problem Solving, Remote Work.
-===
+
+---
 
 ## Projects
 ### Computational Spacecraft and Symbolic Dynamics Textbook Documentation and Variable Mass Systems Research, London, UK
@@ -100,7 +103,8 @@ redirect_from:
 - Applied theoretical knowledge from lectures on 3D motion and complex circuit design to practical implementation.
 - Technical Skills: Circuit Design, Electronics Prototyping, Component Selection.
 - Soft Skills: Problem Solving, Collaboration.
-===
+
+---
 
 ## Interests
 - **Cooking**: I love cooking. In my spare time, you can often find me in the kitchen cooking any new foods that have sparked my interest.
