@@ -11,13 +11,14 @@ redirect_from:
 
 ## Skills
 ### Engineering Software 
-CAD (Creo, Solidworks), FEM (Abaqus), CFD (STAR-CCM+), Space Applications (FreeFlyer, ESA Master, ESA Drama), Coding (GitHub, Python, Matlab).
+- CAD (Creo, Solidworks), FEM (Abaqus), CFD (STAR-CCM+), Space Applications (FreeFlyer, ESA Master, ESA Drama), Coding (GitHub, Python, Matlab).
 
 ### Miscellaneous
-Report Writing, Laboratory Skills, LaTeX, Microsoft Office.
+- Report Writing, Laboratory Skills, LaTeX, Microsoft Office.
 
 ### Soft Skills
-Leadership, Time Management, Teamwork, Problem-solving, Engaging Presentation.
+- Leadership, Time Management, Teamwork, Problem-solving, Engaging Presentation.
+===
 
 ## Education
 ### European Space Agency Academy ESEC Galaxia, Belgium
@@ -35,6 +36,7 @@ Leadership, Time Management, Teamwork, Problem-solving, Engaging Presentation.
 - Graduated with B, B, A*.
 - Completed TU Delft 'Introduction to Aerospace Structures and Materials' online course.
 - Volunteered for the 'superWASP variable stars project'.
+===
 
 ## Work Experience
 ### BAM UK and Ireland, AWE Burghfield, UK
@@ -62,6 +64,7 @@ Leadership, Time Management, Teamwork, Problem-solving, Engaging Presentation.
 - Engaged in creative thinking to fulfil design briefs, showcasing innovation and problem-solving abilities.
 - Technical Skills: CAD (SketchUp).
 - Soft Skills: Project Management, Creative Problem Solving, Remote Work.
+===
 
 ## Projects
 ### Computational Spacecraft and Symbolic Dynamics Textbook Documentation and Variable Mass Systems Research, London, UK
@@ -97,6 +100,7 @@ Leadership, Time Management, Teamwork, Problem-solving, Engaging Presentation.
 - Applied theoretical knowledge from lectures on 3D motion and complex circuit design to practical implementation.
 - Technical Skills: Circuit Design, Electronics Prototyping, Component Selection.
 - Soft Skills: Problem Solving, Collaboration.
+===
 
 ## Interests
 - **Cooking**: I love cooking. In my spare time, you can often find me in the kitchen cooking any new foods that have sparked my interest.
