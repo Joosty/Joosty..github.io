@@ -1,5 +1,5 @@
 ---
-title: "Mission Planning and Risk Assessment for the Disposal of a LEO Satellite"
+title: "Mission Planning and Risk Assessment for the Disposal of an LEO Satellite"
 excerpt: "Participating in the ESA Space Debris Training Course, focusing on sustainable disposal strategies for the Sentinel 2c satellite.<br/><img src='/images/SpaceDebrisProject.jpg' width='300'>"
 collection: portfolio
 ---
