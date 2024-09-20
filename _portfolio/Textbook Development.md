@@ -1,6 +1,6 @@
 ---
 title: "Textbook Development: Dynamics in Computational Spacecraft and Symbolic Dynamics"
-excerpt: "Collaborating on comprehensive textbooks aimed at advancing knowledge in dynamics for aerospace applications.<br/><img src='/images/Dynamics_Textbook.png'>"
+excerpt: "Collaborating on comprehensive textbooks aimed at advancing knowledge in dynamics for aerospace applications.<br/><img src='/images/Dynamics_Textbook.png' width='300'>"
 collection: portfolio
 ---
 
