@@ -14,4 +14,4 @@ Key components of my work include:
 
 This experience was supported by lectures from experts at ESEC throughout the week, providing me with insights into the risks, guidelines, and technology surrounding debris and end-of-life satellites. It enhanced my understanding of space debris management and equipped me with the skills necessary to contribute to sustainable space operations.
 
-[Download Project Slides](https://github.com/Joosty/Joosty.github.io/blob/master/files/ESA%20Project%20Slides.pdf)
+[Download Project Slides](https://Joosty.github.io/files/ESA_Project_Slides.pdf)
