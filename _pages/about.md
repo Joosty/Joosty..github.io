@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Joost Hubbard, an MEng Aerospace Engineering student at Queen Mary University of London. My passion lies in orbital mechanics, propulsion systems, and spacecraft design. I have gained practical and theoretical  experience through internships and academia, where I developed skills in CAD, FEM, CFD, and mission planning software as well as hands-on engineering tasks. I thrive in team environments and enjoy tackling complex engineering challenges. Outside of academics, I am an avid cook, hiker and a dedicated follower of Formula One. I am open to any opportunities in the engineering sphere, mainly looking to develop into a future career in the space sector.
+I am Joost Hubbard, a final year MEng Aerospace Engineering student at Queen Mary University of London. My passion lies in satellite operations, spacecraft control systems, and spacecraft dynamics. Academic coursework and projects have made me educated me in orbital mechanics, rigid body dynamics, modelling of spacecraft systems, and risk analysis. I am proficient in tools such as FreeFlyer, ESA Drama, ESA Master, MATLAB and Python for operations, system modelling, and mission support. I thrive in team environments and enjoy tackling complex engineering challenges. Actively seeking graduate opportunities in satellite operations, dynamics, and modelling to contribute to pioneering initiatives in satellite communications and mission support.
 
 
 **I am currently:**
 - Working on two online textbooks for use in QMUL's teaching, [Symbolic Computational Dynamics](https://github.com/angadhn/ComputationalDynamics) and [Computational Spacecraft Dynamics](https://github.com/angadhn/SpacecraftDynamics), as an active contributor and reviewer.
-- Developing background knowledge required for variable mass systems simulation and research.
-- Preparing for my visit to ESA Galaxia as part of [ESA Academy's Space Debris Training Course 2024](https://www.esa.int/Education/ESA_Academy/Space_Debris_Training_Course_2024_open_for_applications).
+- Working as part of a team, under Dr. Reanjan Vepa, to design and implement a generic digital twin for a previously designed CubeSat. Specifically, I am designing and integrating the attitude determination and control system within MATLAB/SIMULINK.
+- Working as the lead mechanical engineer as part of an international team, under both academic and industry support, to propose an experiment to the [ESA REXUS/BEXUS Program](https://rexusbexus.net/) focused on Space Object Brightness Evaluation and Reference (S.O.B.E.R). 
