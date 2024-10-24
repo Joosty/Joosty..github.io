@@ -1,6 +1,6 @@
 ---
 title: "Torsion in Multi-cell Box Beam"
-excerpt: "A detailed study on the torsional behaviour of a multi-cell box beam structure, comparing shear flow and shear centre calculations from both hand calculations and FEM analysis using Abaqus.<br/><img src='/images/Displacement_Visualization.jpg'>"
+excerpt: "A detailed study on the torsional behaviour of a multi-cell box beam structure, comparing shear flow and shear centre calculations from both hand calculations and FEM analysis using Abaqus.<br/><img src='/images/Displacement_Visualization.jpg' width='300'>"
 collection: portfolio
 ---
 
