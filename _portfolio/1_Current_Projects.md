@@ -1,6 +1,6 @@
 ---
 title: "Current Projects: Satellite Design and CubeSat Systems"
-excerpt: "A showcase of my involvement in cutting-edge satellite design, control systems, and mechanical engineering projects.<br/><img src='/images/CubeSat.png'>"
+excerpt: "A showcase of my involvement in cutting-edge satellite design, control systems, and mechanical engineering projects.<br/><img src='/images/CubeSat.jpeg'>"
 collection: portfolio
 ---
 
