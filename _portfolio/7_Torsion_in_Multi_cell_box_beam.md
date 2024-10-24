@@ -12,22 +12,22 @@ The Torsion in Multi-cell Box Beam coursework was conducted as part of the EMS60
 **Structural Setup**: A multi-cell box beam structure was created using simplified schematic dimensions, representing a typical aircraft wing box. The structure was meshed and optimized for accuracy through convergence analysis, ensuring reliable results for subsequent simulations.
 
 **Analysis Methodology**:
-    - **Finite Element Method (FEM) Simulation**: The structure was subjected to torsional loads in **Abaqus**, generating in-plane shear stresses (**S12**) across the beam. These stresses were then used to calculate **shear flow** and determine the location of the **shear centre**. The FEM analysis was performed under various loading conditions, visualizing the stress distribution and deformation of the beam.
-    - **Hand Calculations**: Classical shear flow equations were used to calculate the same parameters by hand, applying **Bredt-Batho theory**. This allowed for a direct comparison between the analytical approach and the FEM results.
+- **Finite Element Method (FEM) Simulation**: The structure was subjected to torsional loads in **Abaqus**, generating in-plane shear stresses (**S12**) across the beam. These stresses were then used to calculate **shear flow** and determine the location of the **shear centre**. The FEM analysis was performed under various loading conditions, visualizing the stress distribution and deformation of the beam.
+- **Hand Calculations**: Classical shear flow equations were used to calculate the same parameters by hand, applying **Bredt-Batho theory**. This allowed for a direct comparison between the analytical approach and the FEM results.
 
 **Key Findings**:
-    - The **FEM simulation** provided a detailed view of the stress distribution, with shear flow and stress concentration visualizations highlighting critical areas within the multi-cell structure.
-    - **Comparison**: Discrepancies between hand calculations and FEM results were observed, with **shear flow errors** ranging from **4.08% to 2289.66%**. The **shear centre** calculation error was lower, at around **4.06%**.
-    - **Accuracy**: Overall, the FEM results proved more reliable for analyzing complex structures due to the reduced likelihood of human error and the ability to represent stresses with higher precision. This reinforces the utility of FEM in structural analysis, especially for complex geometries like multi-cell beams.
+- The **FEM simulation** provided a detailed view of the stress distribution, with shear flow and stress concentration visualizations highlighting critical areas within the multi-cell structure.
+- **Comparison**: Discrepancies between hand calculations and FEM results were observed, with **shear flow errors** ranging from **4.08% to 2289.66%**. The **shear centre** calculation error was lower, at around **4.06%**.
+- **Accuracy**: Overall, the FEM results proved more reliable for analyzing complex structures due to the reduced likelihood of human error and the ability to represent stresses with higher precision. This reinforces the utility of FEM in structural analysis, especially for complex geometries like multi-cell beams.
 
 **Visualization and Results**:
-    - Below are images from the FEM simulation illustrating the **stress distribution**, and **deformation patterns** under torsion.
-    - **Stress Visualization (S12)**:
-      ![Stress Distribution](/images/Stress_Visualization.jpg)
-    - **Displacement Visualization**:
-      ![Displacement](/images/Displacement_Visualization.jpg)
-    
-    These images showcase the stress concentrations and the resulting displacement under applied torsional loads.
+- Below are images from the FEM simulation illustrating the **stress distribution**, and **deformation patterns** under torsion.
+- **Stress Visualization (S12)**:
+  ![Stress Distribution](/images/Stress_Visualization.jpg)
+- **Displacement Visualization**:
+  ![Displacement](/images/Displacement_Visualization.jpg)
+  
+  These images showcase the stress concentrations and the resulting displacement under applied torsional loads.
 
 **Report Deliverables**: A comprehensive report was prepared, detailing the background theory of torsional mechanics, the modelling process in Abaqus, and an analysis of the comparative results between hand calculations and FEM simulations. The report also discusses the sources of error and potential improvements in the simulation process.
 
