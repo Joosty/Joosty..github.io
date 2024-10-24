@@ -1,10 +1,10 @@
 ---
 title: "Torsion in Multi-cell Box Beam"
-excerpt: "A detailed study on the torsional behavior of a multi-cell box beam structure, comparing shear flow and shear centre calculations from both hand calculations and FEM analysis using Abaqus.<br/><img src='/images/Displacement_Visualization.jpg'>"
+excerpt: "A detailed study on the torsional behaviour of a multi-cell box beam structure, comparing shear flow and shear centre calculations from both hand calculations and FEM analysis using Abaqus.<br/><img src='/images/Displacement_Visualization.jpg'>"
 collection: portfolio
 ---
 
-**Module Title**: Aircraft Structures | **Location**: London, UK | **Dates**: Oct 2024 - Current
+**Module Title**: Aircraft Structures | **Location**: London, UK | **Dates**: Oct 2023 - Dec 2023
 
 The **Torsion in Multi-cell Box Beam** coursework was conducted as part of the EMS609 module to explore and compare shear flow and shear centre values derived from **hand calculations** and **Finite Element Method (FEM) simulations**. Using **Abaqus**, a three-dimensional **idealized wing box structure** was modelled and subjected to **boundary conditions** and a **point load**, simulating real-world torsional forces encountered in aircraft structures.
 
