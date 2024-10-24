@@ -1,6 +1,6 @@
 ---
-title: "Current Projects: Satellite Design and CubeSat Systems"
-excerpt: "A showcase of my involvement in cutting-edge satellite design, control systems, and mechanical engineering projects.<br/><img src='/images/CubeSat.jpeg'>"
+title: "Current Projects: CubeSat Control Systems and BEXUS Proposal"
+excerpt: "A showcase of my ongoing satellite control systems projects as well as my role in an internationally backed BEXUS proposal.<br/><img src='/images/CubeSat.jpeg'>"
 collection: portfolio
 ---
 
