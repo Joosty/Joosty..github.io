@@ -4,7 +4,7 @@ excerpt: "Developing a SIMULINK model to simulate the navigation equations of a 
 collection: portfolio
 ---
 
-**Organization**: Queen Mary University of London | **Location**: London, UK | **Dates**: Oct 2024 - Current
+**Module Title**: Advanced Flight Control and Simulation of Aerospace Vehicles | **Location**: London, UK | **Dates**: Oct 2024 - Current
 
 This project, part of the EMS 716 Advanced Flight Control and Simulation of Aerospace Vehicles coursework, focuses on the Modelling and Simulation of a Strapped-Down Inertial Measuring Unit (IMU). The primary learning objective is to familiarize students with the navigation principles of a flight vehicle and assess the performance of an IMU-based navigation system. By simulating both the navigation and error dynamics equations, I aim to evaluate how errors propagate through the system and impact the accuracy of flight navigation.
 
