@@ -4,10 +4,9 @@ excerpt: "Developing a SIMULINK model to simulate the navigation equations of a 
 collection: portfolio
 ---
 
-## IMU Navigation and Error Dynamics Simulator
 **Organization**: Queen Mary University of London | **Location**: London, UK | **Dates**: Oct 2024 - Current
 
-This project, part of the EMS 716 Advanced Flight Control and Simulation of Aerospace Vehicles coursework, focuses on the **Modelling and Simulation of a Strapped-Down Inertial Measuring Unit (IMU)**. The primary learning objective is to familiarize students with the navigation principles of a flight vehicle and assess the performance of an IMU-based navigation system. By simulating both the navigation and error dynamics equations, I aim to evaluate how errors propagate through the system and impact the accuracy of flight navigation.
+This project, part of the EMS 716 Advanced Flight Control and Simulation of Aerospace Vehicles coursework, focuses on the Modelling and Simulation of a Strapped-Down Inertial Measuring Unit (IMU). The primary learning objective is to familiarize students with the navigation principles of a flight vehicle and assess the performance of an IMU-based navigation system. By simulating both the navigation and error dynamics equations, I aim to evaluate how errors propagate through the system and impact the accuracy of flight navigation.
 
 ### Project Overview:
 - **Navigation Equations Simulation**: I have developed a SIMULINK model to simulate the navigation equations (referenced from equations 47 & 48 in the project appendix) for a strapped-down IMU. This simulation replicates how a vehicle’s position, velocity, and attitude are calculated based on sensor data in a real-world system. The use of **Euler angles** transforms angular velocities into attitude rates, which helps understand the orientation of the flight vehicle.
