@@ -6,7 +6,7 @@ collection: portfolio
 
 **Module Title**: Aircraft Structures | **Location**: London, UK | **Dates**: Oct 2023 - Dec 2023
 
-The **Torsion in Multi-cell Box Beam** coursework was conducted as part of the EMS609 module to explore and compare shear flow and shear centre values derived from **hand calculations** and **Finite Element Method (FEM) simulations**. Using **Abaqus**, a three-dimensional **idealized wing box structure** was modelled and subjected to **boundary conditions** and a **point load**, simulating real-world torsional forces encountered in aircraft structures.
+The Torsion in Multi-cell Box Beam coursework was conducted as part of the EMS609 module to explore and compare shear flow and shear centre values derived from hand calculations and Finite Element Method (FEM) simulations. Using Abaqus, a three-dimensional idealized wing box structure was modelled and subjected to boundary conditions and a point load, simulating real-world torsional forces encountered in aircraft structures.
 
 ### Project Overview:
 **Structural Setup**: A multi-cell box beam structure was created using simplified schematic dimensions, representing a typical aircraft wing box. The structure was meshed and optimized for accuracy through convergence analysis, ensuring reliable results for subsequent simulations.
