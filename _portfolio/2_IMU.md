@@ -1,6 +1,6 @@
 ---
 title: "Modelling and Simulation of a Strapped-Down Inertial Measuring Unit (IMU)"
-excerpt: "Developing a SIMULINK model to simulate the navigation equations of a strapped-down IMU and assess flight vehicle navigation principles.<br/><img src='/images/IMU_Simulator.png'>"
+excerpt: "Developing a SIMULINK model to simulate the navigation equations of a strapped-down IMU and assess flight vehicle navigation principles."
 collection: portfolio
 ---
 
