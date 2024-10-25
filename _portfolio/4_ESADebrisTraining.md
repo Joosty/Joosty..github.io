@@ -13,7 +13,7 @@ Key components of my work include:
 - **Proposal Presentation**: Created and presented our mission proposal to the head of the ESA space debris office and space debris engineers, emphasizing our findings and recommendations.
 
 **Group Photo After Presentation**
-![](/images/group_pic.png)
+![](/images/group_pic.jpg)
 
 This experience was supported by lectures from experts at ESEC throughout the week, providing me with insights into the risks, guidelines, and technology surrounding debris and end-of-life satellites. It enhanced my understanding of space debris management and equipped me with the skills necessary to contribute to sustainable space operations.
 
