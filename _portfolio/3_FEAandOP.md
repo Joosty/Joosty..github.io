@@ -1,6 +1,6 @@
 ---
 title: "Finite Element Analysis of Frame Section from ESCARGO BEXUS Gondola"
-excerpt: "Using ABAQUS for static analysis of the ESCARGO frame, a critical structural component in ESA's BEXUS program.<br/><img src='Images/xyz_bracket.png' width='300'>"
+excerpt: "Using ABAQUS for static analysis of the ESCARGO frame, a critical structural component in ESA's BEXUS program.<br/><img src='images/xyz_bracket.png' width='300'>"
 collection: portfolio
 ---
 
@@ -20,13 +20,13 @@ This project, part of the EMS724 module, investigates the static performance of 
 ### Visuals:
   
 **Figure 1**: ESCARGO Frame  
-![ESCARGO Frame](Images/escargo_frame.png)
+![ESCARGO Frame](images/escargo_frame.png)
 
 **Figure 2**: Cross-Section Schematic of Simplified ESCARGO Frame  
-![Cross-Section Schematic](Images/sketch_simp.png)
+![Cross-Section Schematic](images/sketch_simp.png)
 
 **Figure 3**: Simplified ESCARGO Frame Within ABAQUS 
-![Cross-Section Schematic](Images/xyz_bracket.png)
+![Cross-Section Schematic](images/xyz_bracket.png)
 
 ### Learning Outcomes:
 This project improved my FEA skills, particularly in ABAQUS, and provided valuable experience in iterative design analysis.
