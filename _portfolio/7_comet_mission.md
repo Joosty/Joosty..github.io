@@ -23,7 +23,7 @@ This project involves the design and planning of the Comet Interceptor mission a
 **Figure 2**: Sketch of the Comet Orbit  
 ![Mission Phases](/images/comet_sketch.png)
 
-For more information, refer to my paper on the Comet Interceptor mission [here](space_report_final.pdf).
+For more information, refer to my paper on the Comet Interceptor mission [here](/files/space_report_final.pdf).
 
 ### Learning Outcomes:
 This project has enhanced my understanding of orbital mechanics and spacecraft manoeuvring strategies, particularly in the context of designing flexible missions capable of adapting to unknown targets.
