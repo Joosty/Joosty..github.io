@@ -4,7 +4,7 @@ excerpt: "This coursework for EMS610 focuses on designing the Comet Interceptor 
 collection: portfolio
 ---
 
-**Module Title**: EMS610 Spacecraft Design: Manoeuvring and Orbital Mechanics | **Location**: London, UK | **Dates**: Current
+**Module Title**: EMS610 Spacecraft Design: Manoeuvring and Orbital Mechanics | **Location**: London, UK | **Dates**: Feb 2024 - Apr -2024
 
 This project involves the design and planning of the Comet Interceptor mission as part of the EMS610 coursework. The goal is to develop a spacecraft capable of launching into a halo orbit around the Sun-Earth L2 Lagrangian point, waiting for a comet target, and subsequently executing an interplanetary transfer to rendezvous with the comet.
 
